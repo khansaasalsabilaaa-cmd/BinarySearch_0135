@@ -32,3 +32,12 @@ void input()
         cin >> element[i];
     }
 }
+
+void bubbleSortArray()
+{
+    int pass = 1;
+    do
+    {
+        
+    }
+}
